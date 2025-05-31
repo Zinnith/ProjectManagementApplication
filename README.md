@@ -24,4 +24,4 @@ An industry-standard method for secure user authentication, enabling safe login 
 💳 Razorpay (or other payment gateway)
 A payment processing platform used to integrate secure online payments into your project management system.
 
-currenty on working - side project
+currenty os working - side project
